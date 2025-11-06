@@ -266,4 +266,4 @@ If those commands succeed, Docker is healthy again and `docker compose up -d` sh
 
 ---
 
-> This file is intended for GitHub documentation under a homelab / Proxmox / Docker repo so future you (or others) can quickly reproduce the fix when Docker breaks in nested LXC environments on Ubuntu 24.04.
+> This file is intended for GitHub documentation under a homelab / Proxmox / Docker so future you (or others) can quickly reproduce the fix when Docker breaks in nested LXC environments on Ubuntu 24.04.
