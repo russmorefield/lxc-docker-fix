@@ -7,7 +7,7 @@ This guide documents the exact steps taken to fix the following Docker errors wh
 
 Environment:
 
-- **Hypervisor:** Proxmox VE (LXC container)
+- **Hypervisor:** Proxmox VE (LXC container) running behind a firewall
 - **CT OS:** Ubuntu 24.04.3 LTS (Noble Numbat)
 - **LXC:** Unprivileged container
 - **Docker:** 28.5.2
