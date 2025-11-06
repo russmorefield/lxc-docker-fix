@@ -68,7 +68,8 @@ lxc.apparmor.profile: unconfined
 After saving the file, restart the LXC from the Proxmox host:
 
 ```bash
-pct restart 117
+pct stop 117
+pct start 117
 ```
 
 Then log back into the container.
